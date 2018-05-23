@@ -1,4 +1,5 @@
 var playlist = {}
+playlist["Fall Out Boy"] = "Last of the Real Ones"
 
 function updatePlaylist(playlist,artist,song){
   playlist.artist = song
